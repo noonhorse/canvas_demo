@@ -1,0 +1,13 @@
+{
+  "family": "template",
+  "name": "canvas",
+  "version": "1.0.0",
+
+  "spm": {
+    "alias": {
+      "jquery": "jquery",
+      "jquery-easing": "jquery-easing"
+    },
+    "output": ["main.js", "base.css"]
+  }
+}
